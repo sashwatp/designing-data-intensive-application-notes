@@ -1,5 +1,12 @@
 # Chapter-2: Data Models and Query Languages
 
+## General
+
+1. Schema can be 
+   1. Explicit (Enforced at write) - Relational
+   2. Implicit (handled at read) - Document & Graph
+
+   
 ## Relational Model vs Document Model
 
 
@@ -40,3 +47,10 @@ SELECT ?personName WHERE {
 1. Foundation language on which later query languages were build. 
 2. `(Subject, Predicate, Object)` => `Predicate (Subject, Object)`
 
+# Summary
+1. 3 Types of widely data model today
+   1. Document
+   2. Relational
+   3. Graph
+2. Each one has its own characterstics and application should choose 1 based on its need. 
+3. Each data model provides its own query language. 
