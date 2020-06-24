@@ -1,1 +1,6 @@
 # designing-data-intensive-application-notes
+
+I am currently reading [Designing Data Intensive Applications](https://www.amazon.com/Designing-Data-Intensive-Applications-Reliable-Maintainable-ebook/dp/B06XPJML5D) by Martin Klepmann.
+
+I have tried to create notes.
+
