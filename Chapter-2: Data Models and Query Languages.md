@@ -26,7 +26,7 @@ SELECT ?personName WHERE {
     ?person :liveIn / :within / :name "Europe"
 }
 ```
-### Graph databases compared to Network Model
+## Graph databases compared to Network Model
 
 | Parameter | Network Model | Graph |
 |----------|--------------|--------|
@@ -34,3 +34,9 @@ SELECT ?personName WHERE {
 | Reaching a record | Start with access path  | Using vertex uniqueId or use index to find vertices with a value |
 | New record position | DB maintains order -> consequences | No ordering -> Require sorting during query|
 | Query language| Imperative | Have both Imperative and Declarative | 
+
+
+## Datalog 
+1. Foundation language on which later query languages were build. 
+2. `(Subject, Predicate, Object)` => `Predicate (Subject, Object)`
+
