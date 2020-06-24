@@ -6,5 +6,6 @@ I have tried to create notes.
 
 
 1. [Chapter-1: ](#)
-2. [Chapter-2](Chapter-2-Data-Models-and-Query-Languages.md)
+2. [Chapter-2: Data Models and Query Languages](Chapter-2-Data-Models-and-Query-Languages.md)
+3. [Chapter-3: Storage and Retrieval](Chapter-3-Storage-and-retrieval.md)
 
