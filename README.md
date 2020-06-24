@@ -4,3 +4,7 @@ I am currently reading [Designing Data Intensive Applications](https://www.amazo
 
 I have tried to create notes.
 
+
+1. [Chapter-1: ](#)
+2. [Chapter-2](Chapter-2:%20Data%20Models%20and%20Query%20Languages.md)
+
