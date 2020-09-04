@@ -48,7 +48,7 @@ SELECT ?personName WHERE {
 2. `(Subject, Predicate, Object)` => `Predicate (Subject, Object)`
 
 # Summary
-1. 3 Types of widely data model today
+1. 3 Types of widely adopted data model today
    1. Document
    2. Relational
    3. Graph
